@@ -1,0 +1,54 @@
+
+body{
+    background-color: rgb(227, 213, 248);
+}
+
+header{
+    width: 100%;
+    height: 25%;
+    text-align: center;
+    margin: 4%;
+    background-color: rgba(255, 227, 176, 0.911);
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+div{
+    float:left;
+    width: 100%;
+    height: 25%;
+    display:flex;
+}
+
+.tabs{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    text-shadow: 10px 10px 10px rgb(84, 61, 104);
+}
+
+.tabs >div:hover{
+    outline: rgb(228, 228, 39);
+    box-shadow: 15px 15px 15px rgb(247, 214, 255);
+}   
+
+img{
+    width: 70%;
+    height: 70%;
+    margin:4%;
+    box-shadow: seagreen;
+}
+
+.Picture{
+    width:40%;
+    height: 35%;
+    border: 4px double lightcyan;
+    float: left;
+    display: flex;
+}
+
+
+
+
+
